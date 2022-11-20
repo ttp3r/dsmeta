@@ -1,6 +1,6 @@
 # dsmeta
 
-DSMeta é um projeto realizado durante a Semana Spring React, ofericida pela escola de programação DevSuperior (https://devsuperior.com.br/cursos)
+DSMeta é um projeto realizado durante a Semana Spring React, oferecida pela escola de programação DevSuperior (https://devsuperior.com.br/cursos)
 com a orientação do professor Nelio Alves, cuja didática e metodologia de ensino online ficaram muito conhecidas através dos cursos de tecnologia ofertados por ele na plataforma Udemy.
 
 A segunda edição deste evento gratuito contou com 3 aulas e ocorreu entre os dias 14 e 20 de novembro de 2022 e após este período, as aulas não estão mais acessíveis.
